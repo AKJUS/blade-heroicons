@@ -2,7 +2,11 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/blade-ui-kit/blade-heroicons/compare/2.6.0...main)
+## [Unreleased](https://github.com/blade-ui-kit/blade-heroicons/compare/1.7.0...main)
+
+## [1.7.0](https://github.com/blade-ui-kit/blade-heroicons/compare/2.6.0...1.7.0) - 2026-03-16
+
+* Laravel 13 compatibility by [@danharrin](https://github.com/danharrin) in https://github.com/driesvints/blade-heroicons/pull/60
 
 ## [2.6.0](https://github.com/blade-ui-kit/blade-heroicons/compare/2.5.0...2.6.0) - 2025-02-13
 
